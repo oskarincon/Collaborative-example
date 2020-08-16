@@ -50,7 +50,7 @@ class CardsPage extends StatelessWidget {
 
         children: <Widget>[
           FadeInImage(
-            image: NetworkImage('https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/pyr/5cd405db5cafe829df48e212/funimation-1.jpg'),
+            image: NetworkImage('https://estaticos.cambiando.es/media/cache/760x570_thumb/uploads/images/pyr/5cd405db5cafe829df48e212/funimation-1.jpg'),
             placeholder: AssetImage('assets/original.gif'),
             height: 300.0,
             fit: BoxFit.cover,
