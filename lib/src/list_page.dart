@@ -57,7 +57,7 @@ class _ListPageState extends State<ListPage> {
           final image = _numbers[index];
           return FadeInImage(
             placeholder: AssetImage('assets/original.gif'),
-            image: NetworkImage('https://picsum.photos/id/$image/400/300'));
+            image: NetworkImage('https://picsum.new.photos/id/$image/400/300'));
         }
         ),
     );
