@@ -8,7 +8,7 @@ class CardsPage extends StatelessWidget {
           title: Text('Cards Page'),
         ),
         body: ListView(
-          padding: EdgeInsets.all(10.0),
+          padding: EdgeInsets.all(20.0),
           children: <Widget>[
             _cards(),
             SizedBox(height: 20.0,),
